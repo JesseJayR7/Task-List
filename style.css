@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+.icons{
+    margin-left: 900px;
+    margin-top: -10px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -10px;
+}
+
+.theme{
+    font-size: 25px;
+    font-family: Merriweather;
+    display: flex;
+}
+
+.dada{
+    margin-top: 3px;
+    margin-left: 5px;
+    color: #36393f;
+}
+
+.dark-mode {
+    background-color: #36393f;
+}
+
+.the-night{
+    color: white;
+}
+
+.row{
+    margin-top: 5px;
+}
